@@ -1,6 +1,6 @@
 ## _Hello, i am Tony_
-I'm currently pursuing a career in frontend development
-I like making some fun project, mainly using React and NextJs
+I'm currently pursuing a career in frontend development.
+I like making some fun project, mainly using React and NextJs.
 
 ## Tech
 
@@ -19,6 +19,7 @@ I often use these tech when doing some project
 - [Python] - I did some GUI in Python !
 
 And of course all my projects can be seen in my github repositories !
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handleryouth&theme=algolia)](https://github.com/handleryouth/github-readme-stats)

@@ -9,7 +9,7 @@ I often use these tech when doing some project
 - [ReactJS]
 - [NextJS]
 - [TypeScript] - we hate bugs, sometimes ¯\\(ツ)_/¯
-- [JavaScipt]
+- [JavaScript]
 - [Bootstrap]
 - [Tailwind]
 - [SCSS]

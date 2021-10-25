@@ -17,6 +17,7 @@ I often use these tech when doing some project
 - [EJS]
 - [Express]
 - [Python] - I did some GUI in Python !
+- [MongoDB] - still working on it tho
 
 And of course all my projects can be seen in my github repositories !
 

@@ -1,10 +1,10 @@
 ## _Hello, i am Tony_
 I'm currently pursuing a career in frontend development.
-I like making some fun project, mainly using React and NextJs.
+I like making some fun projects, mainly using React and NextJs.
 
 ## Tech
 
-I often use these techs when doing some project
+I often use these techs when doing some projects : 
 
 - [ReactJS]
 - [NextJS]

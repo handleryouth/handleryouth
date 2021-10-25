@@ -4,7 +4,7 @@ I like making some fun project, mainly using React and NextJs.
 
 ## Tech
 
-I often use these tech when doing some project
+I often use these techs when doing some project
 
 - [ReactJS]
 - [NextJS]

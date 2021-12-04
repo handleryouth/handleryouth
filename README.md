@@ -19,7 +19,7 @@ I often use these techs when doing some projects :
 - [Python] - I did some GUI in Python !
 - [MongoDB] - still working on it tho
 
-And of course all my projects can be seen in my github repositories !
+And of course all my projects can be seen in my github repositories ! some are tutorials provided by youtube. feel free !
 
 
 

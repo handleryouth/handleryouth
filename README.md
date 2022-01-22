@@ -16,6 +16,7 @@ I often use these techs when doing some projects :
 - [Styled-Component]
 - [EJS]
 - [Express]
+- [Redux]
 - [Python] - I did some GUI in Python !
 - [MongoDB] - still working on it tho
 

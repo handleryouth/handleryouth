@@ -6,19 +6,19 @@ I like making some fun projects, mainly using React and NextJs.
 
 I often use these techs when doing some projects : 
 
-- [ReactJS]
-- [NextJS]
-- [TypeScript] - we hate bugs, sometimes ¯\\(ツ)_/¯
-- [JavaScript]
-- [Bootstrap]
-- [Tailwind]
-- [SCSS]
-- [Styled-Component]
-- [EJS]
-- [Express]
-- [Redux]
-- [Python] - I did some GUI in Python !
-- [MongoDB] - still working on it tho
+- ReactJS
+- NextJS
+- TypeScript
+- JavaScript
+- Bootstrap
+- Tailwind
+- SCSS
+- Styled-Component
+- EJS
+- Express
+- Redux
+- Python - I did some GUI in Python !
+- MongoDB 
 
 And of course all my projects can be seen in my github repositories ! some are tutorials provided by youtube. feel free !
 

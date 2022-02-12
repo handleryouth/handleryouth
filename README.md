@@ -9,6 +9,7 @@ I often use these techs when doing some projects :
 - ReactJS
 - NextJS
 - TypeScript
+- Graphql
 - JavaScript
 - Bootstrap
 - Tailwind

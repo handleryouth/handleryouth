@@ -12,7 +12,7 @@ If you are interested, you can visit my website. there are a lot of frontend pro
 <img src="https://i.ibb.co/YWJyXBv/handleryouth-xyz.webp" alt="handleryouth thumbnail"/>
 
 
-## Tech
+## _Tech_
 
 I often use these techs when doing some projects : 
 

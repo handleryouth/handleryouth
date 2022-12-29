@@ -26,7 +26,7 @@ I often use these techs when doing some projects :
 - SCSS
 - Styled-Component
 - EJS
-- Express (Mainly for web server)
+- Express (mainly for web server)
 - Redux
 - Python - I did some GUI in Python !
 - MongoDB

@@ -4,14 +4,6 @@ I am learning about **React, NextJS, React Native**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handleryouth&label=Profile%20views&color=0e75b6&style=flat" alt="handleryouth" /> </p>
 
-## _Personal Website_
-If you are interested, you can visit my website. there are a lot of frontend projects that can inspire you to learn or to create something new
-
-<p align="center"><a href="https://handleryouth.xyz/">handleryouth.xyz</a></p>
-
-<img src="https://i.ibb.co/YWJyXBv/handleryouth-xyz.webp" alt="handleryouth thumbnail"/>
-
-
 ## _Tech_
 
 I often use these techs when doing some projects : 
